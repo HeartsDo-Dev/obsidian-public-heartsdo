@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/boite-a-rp/journal-de-talia/","tags":["Personnages","GR-FT-Askengarde"]}
 ---
 
-![rinna_mayfield_render__tony_taka__by_renderomania_db9x6g6-pre.png|100](/img/user/rinna_mayfield_render__tony_taka__by_renderomania_db9x6g6-pre.png)
+![rinna_mayfield_render__tony_taka__by_renderomania_db9x6g6-pre.png|100](/img/user/img/rinna_mayfield_render__tony_taka__by_renderomania_db9x6g6-pre.png)
 # Entrée 0
 
 _Je suis née d'une famille royale entre un Triseract de terre et un Irentum qui maitrise la magie de l'eau, vous me direz mais pourquoi je vous raconte cela en premier ? Eh bien, car, comme vous le savez sans doute, les Viterius ne peuvent avoir d'enfant sauf entre eux... Mes premières années étaient emplies que de joie, la découverte de ma magie de la terre, mon père était si heureux à ce moment-là. Et l'apprentissage des coutumes dans le royaume de par ma mère qui me dispensait mon éducation.  
