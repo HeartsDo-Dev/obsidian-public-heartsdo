@@ -29,4 +29,4 @@
 
 =~=~=~=~=~=~=~=~=
 
-**Profil du personnage (image)**: ![Tyka_badasse.png|undefined](/img/user/Tyka_badasse.png)
+**Profil du personnage (image)**: ![Tyka_badasse.png|undefined](/img/user/img/Tyka_badasse.png)
