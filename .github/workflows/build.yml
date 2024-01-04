@@ -6,8 +6,8 @@ name: Check for any build error
 on:
   push:
     branches: [ "pages" ]
-  pull_request_target:
-    branches: [ "pages" ]
+  pull_request:
+    branches: [ "main-to-pages" ]
 
 jobs:
   build:
