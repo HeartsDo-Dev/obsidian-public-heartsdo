@@ -5,4 +5,13 @@ pull_request_rules:
       - "check-success=Cloudflare Pages"
     actions:
       comment:
-        message: "@dependabot merge"
+        message: "Merged by the rule: Automatic merge commit from Dependabot"
+  - name: automatic merge for bot
+    conditions:
+        - "label=Automated PR"
+        - "check-success=Cloudflare Pages"
+    actions:
+      merge:
+        method: squash
+      comment:
+        message: "Merged by the rule: Merge main to pages"
