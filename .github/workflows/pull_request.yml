@@ -1,0 +1,22 @@
+name: Staging Auto-PR
+on:
+  push:
+    branches: ['main']
+
+jobs:
+  pull-request:
+    name: Open PR to pages
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      name: Checkout the repo
+
+    - uses: repo-sync/pull-request@v2
+      name: Create the pull request
+      with:
+        destination_branch: "pages"
+        pr_title: "Pulling ${{ github.ref }} into pages"
+        pr_body: ":crown: *An automated PR*"
+        pr_reviewer: "heartsdo"
+        pr_draft: false
+        github_token: ${{ secrets.GITHUB_TOKEN }}
