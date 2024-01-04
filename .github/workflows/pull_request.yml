@@ -1,19 +1,21 @@
 name: Create pull request for pages branch
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 jobs:
   pull_request:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
+          ref: pages
+      - name: Reset main-to-pages branch
+        run: |
+          git fetch origin main:main
+          git reset --hard main
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
-          branch: pages
+          branch: main-to-pages
           labels: Automated PR
           title: Update pages branch to ${{ github.ref }}
           body: |
