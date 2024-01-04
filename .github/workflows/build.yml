@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "pages" ]
   pull_request:
-    branches: [ "main-to-pages" ]
+    branches: [ "main-to-pages", "pages" ]
 
 jobs:
   build:
