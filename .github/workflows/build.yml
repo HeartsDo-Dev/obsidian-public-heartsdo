@@ -5,9 +5,11 @@ name: Check for any build error
 
 on:
   push:
-    branches: [ "pages" ]
+    branches: 
+    - pages
   pull_request:
-    branches: [ "main-to-pages", "pages" ]
+    branches: 
+    - pages
 
 jobs:
   build:
