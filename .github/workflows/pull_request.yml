@@ -19,4 +19,4 @@ jobs:
         pr_body: ":crown: *An automated PR*"
         pr_reviewer: "heartsdo"
         pr_draft: false
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ GITHUB_TOKEN }}
