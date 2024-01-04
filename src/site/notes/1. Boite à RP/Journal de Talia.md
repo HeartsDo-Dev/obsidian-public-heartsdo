@@ -1,9 +1,7 @@
 ---
-tags:
-  - Personnages
-  - GR-FT-Askengarde
-dg-publish: true
+{"dg-publish":true,"permalink":"/1-boite-a-rp/journal-de-talia/","tags":["Personnages","GR-FT-Askengarde"]}
 ---
+
 ![rinna_mayfield_render__tony_taka__by_renderomania_db9x6g6-pre.png|100](/img/user/img/rinna_mayfield_render__tony_taka__by_renderomania_db9x6g6-pre.png)
 # Entrée 0
 

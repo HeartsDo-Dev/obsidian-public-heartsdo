@@ -1,9 +1,7 @@
 ---
-tags:
-  - Personnages
-  - GR-FT-Askengarde
-dg-publish: true
+{"dg-publish":true,"permalink":"/1-boite-a-rp/journal-de-julia-gr-v2/","tags":["Personnages","GR-FT-Askengarde"]}
 ---
+
 ### Entrée 0
 
 _Les rêves sont tous d'abord des souvenirs de joie, de colère, de tristesse... plein de sentiments mais aussi de notre imaginaire, de choses marrante, débile, ou juste surréaliste... mais aussi des déjà-vu, des sortes de vision du futur mais dont on n'en doute rien jusque'à que cela nous arrive. Tous cela, c'est les rêves mais moi... j'ai l'impression que j'ai encore plus que des rêves, l'impression que quelque chose ou quelqu'un cherche à me faire comprendre, une impression que... je suis destinée à de grandes choses mais je ne sais pas pourquoi d'ailleurs.  

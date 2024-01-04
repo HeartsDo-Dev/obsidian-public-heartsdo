@@ -1,10 +1,7 @@
 ---
-tags:
-  - Personnages
-  - GR-FT-Askengarde
-Dernière edition: 2021-11-23T16:48
-dg-publish: true
+{"dg-publish":true,"permalink":"/1-boite-a-rp/tyka-fiche-rp-gr-v1/","tags":["Personnages","GR-FT-Askengarde"]}
 ---
+
 =~=~=~=~=~=~=~=~=
 
 **Nom**: Tyka

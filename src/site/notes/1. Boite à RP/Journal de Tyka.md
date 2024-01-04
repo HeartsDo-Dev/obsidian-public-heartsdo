@@ -1,9 +1,7 @@
 ---
-tags:
-  - Personnages
-  - GR-FT-Askengarde
-dg-publish: true
+{"dg-publish":true,"permalink":"/1-boite-a-rp/journal-de-tyka/","tags":["Personnages","GR-FT-Askengarde"]}
 ---
+
 ### Entrée 0
 
 _Les infos de ce journal été cryptée avec un langage inconnu mais pour le bien du HRP, nous l'avons décrypter pour vous !_
