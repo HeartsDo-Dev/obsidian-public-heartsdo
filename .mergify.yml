@@ -10,6 +10,7 @@ pull_request_rules:
     conditions:
         - "label=Automated PR"
         - "check-success=Cloudflare Pages"
+        - "check-success=Check for any build error"
     actions:
       merge:
         method: merge
