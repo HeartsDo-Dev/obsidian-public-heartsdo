@@ -6,6 +6,8 @@ pull_request_rules:
     actions:
       comment:
         message: "Merged by the rule: Automatic merge commit from Dependabot"
+      merge:
+        method: merge
   - name: automatic merge for bot
     conditions:
         - "label=Automated PR"
